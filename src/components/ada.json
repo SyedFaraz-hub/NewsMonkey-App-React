@@ -1,0 +1,28 @@
+entertainment
+general
+health
+science
+sports
+technology
+
+
+<li className="nav-item">
+<a className="nav-link active" href="/entertainment">
+Entertainment
+</a>
+</li>
+<li className="nav-item">
+<a className="nav-link active" href="/general">
+general
+</a>
+</li>
+<li className="nav-item">
+<a className="nav-link active" href="/health">
+health
+</a>
+</li>
+<li className="nav-item">
+<a className="nav-link active" href="/entertainment">
+Entertainment
+</a>
+</li>
